@@ -6,7 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=WesleyAtanasio&label=Visualiza%C3%A7%C3%B5es&color=238636&style=for-the-badge)](https://github.com/WesleyAtanasio)
 [![GitHub followers](https://img.shields.io/github/followers/WesleyAtanasio?label=Seguidores&style=for-the-badge&logo=github&color=238636)](https://github.com/WesleyAtanasio?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Atanasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-atanasio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Atanasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/wesley-atanasio/](https://www.linkedin.com/in/wesley-atanasio-501540296/))
 
 </div>
 
