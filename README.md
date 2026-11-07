@@ -21,12 +21,6 @@ Sou gestor financeiro e desenvolvedor, unindo conhecimento de negócio e tecnolo
 - 🎮 Desenvolvimento de projetos e jogos com **Unreal Engine**
 - 🚀 Sempre buscando reduzir tarefas manuais e transformar ideias em produtos funcionais
 
-## 🚧 O que estou construindo
-
-- **Rodolfo AI** — assistente local para programação, Unreal Engine e base de estudos com RAG
-- **DigiWorld** — jogo de estratégia e simulação política, econômica e militar
-- **Aplicações de BI financeiro** — dashboards, fluxo de caixa, DRE, faturamento e automações empresariais
-- **Soluções logísticas** — integração com ERP, CT-e, rastreamento, cobrança e controle operacional
 
 ## 🛠️ Tecnologias
 
